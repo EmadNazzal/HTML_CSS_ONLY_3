@@ -42,6 +42,12 @@ button {
     outline: none;
     cursor: pointer;
 }
+button:hover {
+    border:1.5px solid #0072a7 ;
+    font-weight: bolder;
+    background-color: aquamarine;
+    color: black;
+}
 
 .content {
     color: #fbfcfd;
